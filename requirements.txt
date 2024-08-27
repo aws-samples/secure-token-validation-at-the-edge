@@ -1,0 +1,6 @@
+aws-cdk-lib==2.146.0
+constructs>=10.0.0,<11.0.0
+aws-solutions-constructs.aws-eventbridge-lambda
+aws_solutions_constructs.aws_alb_lambda
+aws-cdk.aws-lambda-python-alpha
+
