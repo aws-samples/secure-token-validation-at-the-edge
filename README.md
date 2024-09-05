@@ -70,7 +70,8 @@ CloudFunction is being served before CloudFront. It will handle all the logic de
 
 New flow:
 
-![alt text](images/image-4.png)
+<img width="830" alt="image" src="https://github.com/user-attachments/assets/222840e5-ff94-4511-83c5-8166d1d03bc0">
+
 
 
 In the new flow, we see that the request is being forwarded to the origin only if it is valid. Also, if the token is not valid, the request is being terminated immediately.
